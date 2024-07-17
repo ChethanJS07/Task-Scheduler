@@ -2,6 +2,8 @@
 
 This Python script automates the process of opening a PowerPoint presentation, starting the slideshow mode, and ending it after a specified duration using Python's `pyautogui` library.
 
+This program can be used to do any other scheduling operations, just mention the path of the program or file you want to open/run, pyautogui will take care of it.
+
 ## Requirements
 
 - Python 3.x
